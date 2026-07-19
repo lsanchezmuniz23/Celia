@@ -91,6 +91,7 @@ window.CELIA_DATA = {
       "ratio": 1.062
     }
   ],
+
   "messages": [
     {
       "id": "paz",
@@ -155,8 +156,17 @@ window.CELIA_DATA = {
       "title": "Un sol de primavera",
       "preview": "Una sonrisa perenne que contagia paz y armonía.",
       "body": "¡Felicidades, Celia! Eres un sol de primavera con una sonrisa perenne en los labios. Nos contagias paz y armonía. ¡Que disfrutes muchísimo estos 30 tacos —y que lo veamos—! Un beso fuerte."
+    },
+    {
+      "id": "clanthea-lugar-seguro",
+      "symbol": "⚜",
+      "author": "Desde Clanthea",
+      "title": "Haces del escultismo un lugar seguro",
+      "preview": "Gracias por cuidarnos, unirnos y hacer que compartir clan contigo sea tan especial.",
+      "body": "¡Felicidades! ❤️\n\nHola, Celia. Quiero decirte que tomé la mejor decisión al formar clan con vosotros, no solo porque las niñas y Gabri son increíbles, sino también por ti: por cómo eres, cómo nos cuidas y cómo nos hablas. Haces que el escultismo sea un lugar seguro, nos alegras y nos ayudas, aunque lo mejor, sin lugar a dudas, es chismear contigo.\n\nMe siento muy segura contigo y me encanta cómo te abres con nosotras.\n\nTambién me encanta lo cariñosa que eres y la cabeza que tienes. Quiero que sepas que te admiro por ello: por cómo gestionas las cosas, por tu valentía, por tus cojones y por cómo tratas a quienes te rodean.\n\nGracias por todo lo que haces por nosotras, por abrirte, ayudarnos y conseguir que estemos más unidos.\n\nNo me equivoqué en mi decisión. Eres mucho amor, el mismo amor que te mereces.\n\n¡Espero que tengas un día muy bonito! ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
     }
   ],
+
   "reasons": [
     "Haces sentir paz a quienes están contigo.",
     "Cuidas a los tuyos incluso cuando vas a mil.",
