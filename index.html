@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#6f3aa8">
+  <meta name="color-scheme" content="light">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="description" content="El jardín de los 30: una aventura de cumpleaños para Celia, creada por quienes la quieren.">
+  <meta property="og:title" content="Celia · El jardín de los 30">
+  <meta property="og:description" content="Treinta años, infinitas historias y un jardín lleno de cariño.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://lsanchezmuniz23.github.io/Celia/assets/illustrations/og-celia.webp">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://lsanchezmuniz23.github.io/Celia/">
+  <link rel="canonical" href="https://lsanchezmuniz23.github.io/Celia/">
+  <meta property="og:locale" content="es_ES">
+  <title>Celia · El jardín de los 30</title>
+  <link rel="icon" href="assets/illustrations/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>document.documentElement.classList.add('js');</script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <div class="page-progress" aria-hidden="true"><span></span></div>
+  <div class="petal-field" aria-hidden="true"></div>
+
+  <header class="hero" id="inicio">
+    <div class="hero__sky" aria-hidden="true">
+      <svg class="swallow swallow--one" viewBox="0 0 120 60"><path d="M5 42c22-29 45-31 58-9 14-22 34-22 52 3-20-10-34-8-48 7-18-13-36-14-62-1Z"/></svg>
+      <svg class="swallow swallow--two" viewBox="0 0 120 60"><path d="M5 42c22-29 45-31 58-9 14-22 34-22 52 3-20-10-34-8-48 7-18-13-36-14-62-1Z"/></svg>
+    </div>
+    <nav class="topbar" aria-label="Navegación principal">
+      <a class="brand" href="#inicio" aria-label="Volver al inicio"><span>✿</span> El jardín de Celia</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links"><span></span><span></span><span></span><span class="sr-only">Abrir menú</span></button>
+      <div class="nav-links" id="nav-links">
+        <a href="#razones">30 razones</a><a href="#clanthea">Clanthea</a><a href="#mensajes">Mensajes</a><a href="#album">Álbum</a>
+      </div>
+    </nav>
+
+    <div class="hero__content">
+      <p class="eyebrow">20 · 07 · 2026</p>
+      <div class="hero__number" aria-hidden="true">30</div>
+      <h1>Celia, hoy florecen<br><em>treinta años de historias</em></h1>
+      <p class="hero__lead">Hay personas que hacen florecer todo lo que tocan. Esta aventura reúne un pequeño trozo de todo lo que has sembrado en quienes te queremos.</p>
+      <button class="primary-button" id="start-journey" type="button"><span>Comenzar la aventura</span><span aria-hidden="true">↓</span></button>
+      <p class="hero__hint">Desliza, abre, toca y descubre.</p>
+    </div>
+    <div class="hero__garden" aria-hidden="true">
+      <span class="stem s1"></span><span class="stem s2"></span><span class="stem s3"></span><span class="stem s4"></span><span class="stem s5"></span>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="intro section" id="bienvenida">
+      <div class="section__inner intro__grid">
+        <div class="reveal">
+          <p class="section-kicker">Una celebración hecha entre muchas personas</p>
+          <h2>Durante 30 años has cuidado de todos.<br><em>Hoy nos toca cuidarte a ti.</em></h2>
+          <p class="body-large">Este jardín está construido con fotografías, palabras, caminos compartidos y mucho cariño. No pretende contar toda tu historia —sería imposible—, sino recordarte algo que a veces se olvida: la cantidad de vida bonita que dejas a tu paso.</p>
+          <div class="signature-line"><span></span><p>Familia, amistades y compañeros de ruta</p></div>
+        </div>
+        <div class="photo-stack reveal" aria-label="Selección de recuerdos">
+          <figure class="stack-card stack-card--a"><img src="assets/thumbs/photo-01.webp" alt="Recuerdo festivo compartido" width="640" height="640"><figcaption>Personas que suman</figcaption></figure>
+          <figure class="stack-card stack-card--b"><img src="assets/thumbs/photo-05.webp" alt="Recuerdo al aire libre" width="640" height="640"><figcaption>Caminos que unen</figcaption></figure>
+          <figure class="stack-card stack-card--c"><img src="assets/thumbs/photo-08.webp" alt="Recuerdo familiar compartido" width="640" height="640"><figcaption>Historias que quedan</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="reasons section" id="razones">
+      <div class="section__inner">
+        <div class="section-heading reveal">
+          <p class="section-kicker">Una flor por cada año</p>
+          <h2>30 razones para querer a Celia</h2>
+          <p>Abre las flores. Cada una guarda algo que quienes te rodean reconocen en ti.</p>
+        </div>
+        <div class="flower-counter reveal" aria-live="polite"><span id="flowers-opened">0</span> de 30 flores descubiertas</div>
+        <div class="flower-grid" id="flower-grid" aria-label="Treinta razones para querer a Celia"></div>
+      </div>
+    </section>
+
+    <section class="clanthea section" id="clanthea">
+      <div class="section__inner clanthea__grid">
+        <div class="scarf-wrap reveal">
+          <div class="scarf-orbit" aria-hidden="true"><span>⚜</span><span>✦</span><span>✿</span></div>
+          <img src="assets/illustrations/panoleta-clanthea.svg" alt="Ilustración de la pañoleta de Clanthea" width="640" height="480">
+        </div>
+        <div class="reveal">
+          <p class="section-kicker">Agrupación La Ruta de Hércules · Clan Clanthea</p>
+          <h2>La ruta que recorres<br><em>haciendo crecer a otros</em></h2>
+          <p class="body-large">Hay quien camina pensando únicamente en llegar. Tú recorres el camino pendiente de que nadie se quede atrás.</p>
+          <p>Como animadora, responsable y compañera de ruta, has convertido la confianza, la escucha y la alegría en una forma de acompañar. Esta pañoleta no es solo un conjunto de colores: representa campamentos, conversaciones, aprendizajes y personas que han encontrado en ti una referencia.</p>
+          <blockquote>“Gracias por guiarnos siempre, como animadora, pero sobre todo como persona.”</blockquote>
+          <div class="scout-values" aria-label="Valores que representa Celia"><span>Escucha</span><span>Valentía</span><span>Servicio</span><span>Alegría</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="messages section" id="mensajes">
+      <div class="section__inner">
+        <div class="section-heading reveal">
+          <p class="section-kicker">Palabras que cruzan cualquier distancia</p>
+          <h2>Ocho sobres para abrir despacio</h2>
+          <p>Algunos llevan nombre. Otros llegan desde uno de los muchos rincones de tu vida. Todos dicen lo mismo de maneras distintas: eres muy importante.</p>
+        </div>
+        <div class="envelope-grid" id="envelope-grid"></div>
+        <div class="envelope-progress reveal" aria-live="polite"><span class="progress-dots" id="envelope-dots"></span><strong id="envelopes-opened">0 de 8 sobres abiertos</strong></div>
+      </div>
+    </section>
+
+    <section class="numbers section" aria-labelledby="numbers-title">
+      <div class="section__inner">
+        <div class="section-heading reveal"><p class="section-kicker">Datos completamente científicos*</p><h2 id="numbers-title">Celia en cifras</h2><p class="fine-print">*Verificados por un comité de personas que te quiere muchísimo.</p></div>
+        <div class="stats-grid">
+          <article class="stat reveal"><strong>∞</strong><h3>Personas cuidadas</h3><p>La cuenta dejó de ser viable hace años.</p></article>
+          <article class="stat reveal"><strong>24/7</strong><h3>Consejos “de adultas”</h3><p>Servicio activo incluso en campamento.</p></article>
+          <article class="stat reveal"><strong>100%</strong><h3>Energía bonita</h3><p>Sube todavía más cuando te ríes.</p></article>
+          <article class="stat reveal"><strong>1</strong><h3>Floristería soñada</h3><p>Y un jardín entero demostrando que tiene sentido.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="album section" id="album">
+      <div class="section__inner section__inner--wide">
+        <div class="section-heading reveal">
+          <p class="section-kicker">Quince ventanas a una historia mucho mayor</p>
+          <h2>Un álbum de vidas compartidas</h2>
+          <p>No están todos los momentos ni todas las personas. Pero en cada fotografía vive algo que merece quedarse.</p>
+        </div>
+        <div class="gallery" id="gallery"></div>
+      </div>
+    </section>
+
+    <section class="finale section" id="final">
+      <div class="section__inner finale__inner">
+        <img class="collage-30 reveal" src="assets/illustrations/collage-30.webp" alt="Collage de fotografías formando el número 30" width="1400" height="760">
+        <div class="finale__copy reveal">
+          <p class="section-kicker">El jardín está completo</p>
+          <h2>Que la próxima década nos encuentre<br><em>celebrando, creciendo y floreciendo contigo.</em></h2>
+          <p class="body-large">Celia: durante 30 años has llenado de cariño, paz y alegría la vida de quienes te rodean. Hoy queremos recordarte cuánto te queremos y cuánto deseamos seguir compartiendo camino contigo.</p>
+          <button class="primary-button primary-button--light" id="bloom-button" type="button"><span>Hacer florecer el jardín</span><span aria-hidden="true">✿</span></button>
+          <p class="final-signature">Feliz 30 cumpleaños<br><strong>De parte de todos los que te queremos</strong></p>
+        </div>
+      </div>
+      <div class="final-garden" id="final-garden" aria-hidden="true"></div>
+    </section>
+  </main>
+
+  <footer><p>Hecho con fotos, palabras y muchísimo cariño para Celia · 20 de julio de 2026</p><a href="#inicio">Volver arriba ↑</a></footer>
+
+  <dialog class="modal" id="message-modal" aria-labelledby="message-title">
+    <div class="modal__paper">
+      <button class="modal__close" type="button" aria-label="Cerrar mensaje">×</button>
+      <div class="modal__stamp" id="message-symbol" aria-hidden="true">✦</div>
+      <p class="modal__author" id="message-author"></p>
+      <h2 id="message-title"></h2>
+      <div class="modal__body" id="message-body"></div>
+    </div>
+  </dialog>
+
+  <dialog class="modal lightbox" id="lightbox" aria-labelledby="lightbox-title">
+    <div class="lightbox__frame">
+      <button class="modal__close lightbox__close" type="button" aria-label="Cerrar fotografía">×</button>
+      <button class="lightbox__nav lightbox__prev" type="button" aria-label="Fotografía anterior">‹</button>
+      <img id="lightbox-image" src="" alt="">
+      <button class="lightbox__nav lightbox__next" type="button" aria-label="Fotografía siguiente">›</button>
+      <p id="lightbox-title">Recuerdo compartido</p>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
