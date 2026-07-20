@@ -1,4 +1,4 @@
-# El jardín de los 30 — Celia
+# Los 30 de Celia
 
 Web estática de cumpleaños preparada para GitHub Pages. No requiere instalación, compilación ni servicios externos.
 
