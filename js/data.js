@@ -127,8 +127,8 @@ window.CELIA_DATA = {
       "ratio": 0.562
     },
         {
-      "src": "assets/photos/foto-23.webp",
-      "thumb": "assets/thumbs/foto-23.webp",
+      "src": "assets/photos/foto-50.webp",
+      "thumb": "assets/thumbs/foto-50.webp",
       "alt": "Recuerdo compartido de Celia, fotografía 23",
       "ratio": 1.0
     },
@@ -286,12 +286,6 @@ window.CELIA_DATA = {
       "src": "assets/photos/foto-49.webp",
       "thumb": "assets/thumbs/foto-49.webp",
       "alt": "Recuerdo compartido de Celia, fotografía 49",
-      "ratio": 1.0
-    },
-    {
-      "src": "assets/photos/foto-50.webp",
-      "thumb": "assets/thumbs/foto-50.webp",
-      "alt": "Recuerdo compartido de Celia, fotografía 50",
       "ratio": 1.0
     }
   ],
