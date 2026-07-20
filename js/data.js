@@ -121,12 +121,6 @@ window.CELIA_DATA = {
       "ratio": 0.563
     },
     {
-      "src": "assets/photos/photo-21.webp",
-      "thumb": "assets/thumbs/photo-21.webp",
-      "alt": "Recuerdo compartido de Celia, fotografía 21",
-      "ratio": 0.563
-    },
-    {
       "src": "assets/photos/photo-22.webp",
       "thumb": "assets/thumbs/photo-22.webp",
       "alt": "Recuerdo compartido de Celia, fotografía 22",
