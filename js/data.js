@@ -292,109 +292,157 @@ window.CELIA_DATA = {
 
   "messages": [
     {
-      "id": "paz",
-      "symbol": "✦",
-      "author": "Con cariño",
-      "title": "La paz que transmites",
-      "preview": "Ayudas, proteges tus valores y afrontas la vida con valentía.",
-      "body": "Celia, desde que te conozco me has transmitido paz. Ayudas a quien lo necesita, proteges tus valores y eres valiente. Estoy muy orgulloso de ti y espero que pases un día increíble."
+      "id": "paula",
+      "symbol": "⚜",
+      "author": "Paulita",
+      "title": "Holi Celiaa!! Soy Paula!",
+      "preview": "Muchas, muchas felicidades, qué tía más chula!",
+      "body": "Holi Celiaa!! Soy Paula! \nMuchas, muchas felicidades, qué tía más chula! Eres una persona súper icónica y tenemos mucha suerte de haberte conocido. Que sepas que en muchas cosas, eres nuestro referente. \nNos enseñas a no tener miedo a los cambios, a tener ilusión con proyectos muy tuyos y a no olvidarte de querer a los tuyos por muy a tope que estés. Y a ser súper disfrutonas a pesar de todo.\nY además es que eres una persona que es agradable tener a nuestro lado. Eres graciosa, valiente y estás loquita perdida, me encanta.\nTe estoy súper agradecida por todo lo que haces por nosotras, como animadora pero sobretodo como persona ❤️\nQué alegría conocerte y compartir camino contigo, \npor muchos años más compartiendo la locura que es la vida,\nPaulita"
     },
     {
-      "id": "campa",
+      "id": "perfecta-celia",
+      "symbol": "🫶🏼",
+      "author": "",
+      "title": "Mi perfecta Celia 😌🫶🏼",
+      "preview": "Muchisimas felicidades a nuestra mami!!!",
+      "body": "Mi perfecta Celia 😌🫶🏼\nMuchisimas felicidades a nuestra mami!!! Porque eres la mejor persona a la que puedo recurrir para contarle mis cosas y que, de campamento, amo nuestra conexión. Me encanta poder tener la confianza contigo de contarte practicamente todo y sobre todo cosas \"de adultas\" porque eres un referente para mí. Tus consejos y forma de ver la vida me han ayudado mucho para mejorar mis relaciones de amistad y de pareja. Es muy valioso lo que ofreces y estoy súper contenta de tenerte como apoyo. \nSiento que como animadora me puedes ayudar muchisimo, y tu influencia en mí sé que es la mejor, porque te admiro mucho. \nTu forma de ser siento que se parece a la mia y por eso congeniamos tan bien, porque sé que además de vivir conflictos parecidos, ten…"
+    },
+    {
+      "id": "campa-verano",
+      "symbol": "💛",
+      "author": "",
+      "title": "¡Feliz cumpleee, Celia!",
+      "preview": "Me pareces una persona que transmite muchísima luz y alegría a quienes te rodean.",
+      "body": "¡Feliz cumpleee, Celia! \n\nEspero que tengas un día precioso y que lo disfrutes muchísimo, porque te lo mereces.\n\nMe alegro un montón de poder verte y compartir contigo este campa de verano. Me pareces una persona que transmite muchísima luz y alegría a quienes te rodean. La verdad es que me encanta cuando participas en las actividades o te apuntas a cualquier reu o actividad, porque tienes una energía muy bonita que contagia. Consigues que me sienta muy cómoda y feliz.\n\nOjalá este nuevo año de vida venga cargado de momentos preciosos, de muchas alegrías y de personas que te hagan tan feliz como tú haces sentir a los demás. Y espero también que todas esas cosas bonitas te ayuden a afrontar y superar los momentos más difíciles.\n\nUn besote enorme. Te quiero muchito. 💛"
+    },
+    {
+      "id": "seguir-conociendote",
+      "symbol": "🎉",
+      "author": "",
+      "title": "Feliz cumpleaños, Celia! 🎉",
+      "preview": "seguir conociéndote me parece una de las cosas más bonitas.",
+      "body": "Feliz cumpleaños, Celia! 🎉\n\nEspero que pases un día genial y te traiga muchas cosas buenas. Aunque nos conocemos desde hace poco, me pareces increíble, seguir conociéndote me parece una de las cosas más bonitas. Disfruta mucho de tu día, y que no te falten motivos para sonreír. ¡Feliz cumple! 🥳"
+    },
+    {
+      "id": "contigo-mejor",
       "symbol": "⛺",
-      "author": "Desde el campamento",
-      "title": "Contigo siempre es mejor",
-      "preview": "Gracias por cada conversación, cada risa y cada momento compartido.",
-      "body": "Hola, Celia. ¡Muuuuuchas felicidades! Este año va a ser el primero en el que no estemos en el mismo campamento y te echo mucho de menos. Haces que todo sea más fácil y divertido; contigo siempre es mejor todo.\n\nEstá siendo un poco difícil y estamos más apartados, pero quiero que sepas que eso no cambia lo muchísimo que te aprecio. Siempre has sido una persona muy importante para mí y espero que nunca dejes de formar parte de mi vida. Hay personas que dejan huella sin darse cuenta, y tú eres una de ellas. Gracias por cada conversación, por cada risa, por cada momento compartido y por estar siempre cuando hacía falta.\n\nOjalá estés disfrutando un montón de tu día y de ese campa. Te deseo todo lo bueno que te mereces, por ser como eres y por todo lo que aportas a la gente que te rodea; por ser esa persona que siempre está dispuesta a echar una mano, a escuchar y a sacar una sonrisa.\n\n¡Feliz cumple! Tengo muchas ganas de volver a verte. 💚"
+      "author": "",
+      "title": "contigo siempre es mejor todo.",
+      "preview": "Hay personas que dejan huella sin darse cuenta, y tú eres una de ellas.",
+      "body": "Hola Celia, muuuuuchas felicidades!! Este año va a ser el primero en el que no estemos en el mismo campamento y te echo mucho de menos, haces que todo sea más fácil y divertido, contigo siempre es mejor todo.\n\nEstá siendo un poco difícil y estamos más apartados, pero quiero que sepas que eso no cambia lo muchísimo que te aprecio. Siempre has sido una persona muy importante para mí y espero que nunca dejes de formar parte de mi vida. Hay personas que dejan huella sin darse cuenta, y tú eres una de ellas. Gracias por cada conversación, por cada risa, por cada momento compartido y por estar siempre cuando hacía falta.\n\nOjalá estés disfrutando un montón de tu día y de ese campa. Te deseo todo lo bueno que te mereces,  por ser como eres y por todo lo que aportas …"
     },
     {
       "id": "oscar",
       "symbol": "☀",
-      "author": "Óscar",
-      "title": "Una energía que alegra la vida",
-      "preview": "Una persona extraordinaria, con un corazón auténtico y sincero.",
-      "body": "Muchísimas felicidades, Celia. Eres una persona extraordinaria, de una calidad humana inconmensurable y un corazón tan auténtico como sincero. Mantén tu sonrisa siempre contigo. La energía tan positiva que nos regalas a todos con solo compartir tiempo contigo es un don que alegra la vida. Sigue siendo tú. ¡Un besazo!"
+      "author": "Oscar",
+      "title": "Muchiiisimas felicidades Celia.",
+      "preview": "Eres una persona extraordinaria, de una calidad humana inconmensurable",
+      "body": "Muchiiisimas felicidades Celia. Eres una persona extraordinaria, de una calidad humana inconmensurable y un corazón tan auténtico como sincero. Mantén tu sonrisa siempre contigo. La energía tan positiva que nos regalas a todos tan solo con compartir tiempo contigo es un don que alegre la vida. Sigue siendo tú y un BESAZO….\n\n\nOscar"
     },
     {
-      "id": "paula",
-      "symbol": "⚜",
-      "author": "Paulita",
-      "title": "Qué alegría compartir camino contigo",
-      "preview": "Graciosa, valiente, disfrutona y un referente para quienes te rodean.",
-      "body": "¡Holi, Celia! Soy Paula.\n\nMuchas, muchas felicidades. ¡Qué tía más chula! Eres una persona súper icónica y tenemos mucha suerte de haberte conocido. Que sepas que, en muchas cosas, eres nuestro referente.\n\nNos enseñas a no tener miedo a los cambios, a tener ilusión con proyectos muy tuyos y a no olvidarte de querer a los tuyos por muy a tope que estés. Y a ser súper disfrutonas a pesar de todo.\n\nAdemás, eres una persona que da gusto tener a nuestro lado. Eres graciosa, valiente y estás loquita perdida. Me encanta.\n\nTe estoy súper agradecida por todo lo que haces por nosotras, como animadora, pero sobre todo como persona. ❤️\n\nQué alegría conocerte y compartir camino contigo. Por muchos años más compartiendo la locura que es la vida."
-    },
-    {
-      "id": "alicampi",
-      "symbol": "🧭",
-      "author": "Alicampi",
-      "title": "Gracias por guiarme siempre",
-      "preview": "Tus consejos, tu confianza y tu forma de ver la vida dejan huella.",
-      "body": "Mi perfecta Celia 😌🫶🏼\n\n¡Muchísimas felicidades a nuestra mami! Eres la mejor persona a la que puedo recurrir para contarle mis cosas y, de campamento, amo nuestra conexión. Me encanta poder tener la confianza contigo de contarte prácticamente todo, sobre todo cosas “de adultas”, porque eres un referente para mí. Tus consejos y tu forma de ver la vida me han ayudado mucho a mejorar mis relaciones de amistad y de pareja. Es muy valioso lo que ofreces y estoy súper contenta de tenerte como apoyo.\n\nSiento que, como animadora, puedes ayudarme muchísimo, y sé que tu influencia en mí es la mejor, porque te admiro mucho.\n\nSiento que tu forma de ser se parece a la mía y por eso congeniamos tan bien. Además de vivir conflictos parecidos, tendemos a querer solucionarlos de la misma manera.\n\nGracias por guiarme siempre y espero que siga siendo así… porque necesito tus consejos. 😁"
-    },
-    {
-      "id": "flores",
+      "id": "motivos",
       "symbol": "🌸",
-      "author": "Con cariño",
-      "title": "Que nunca te falten motivos",
-      "preview": "Que sigas creciendo, alcanzando tus metas y recordando lo valiosa que eres.",
-      "body": "Feliz cumpleaños. Que seas muy feliz, que nunca te falten motivos para sonreír y que sigas creciendo y alcanzando tus metas. 🌸🌸\n\nY, cuando lleguen los días difíciles, que nunca te falten la fuerza ni las personas que te recuerden lo valiosa que eres."
+      "author": "",
+      "title": "que nunca te falten motivos para sonreír",
+      "preview": "que sigas creciendo y alcanzando tus metas 🌸🌸.",
+      "body": "Feliz cumpleaños, que seas muy feliz, que nunca te falten motivos para sonreír, que sigas creciendo y alcanzando tus metas 🌸🌸. Y cuando lleguen los días difíciles, que nunca te falten la fuerza y las personas que te recuerden lo valiosa que eres."
     },
     {
       "id": "chiqui",
       "symbol": "🎂",
-      "author": "Un abrazo enorme",
-      "title": "Treinta añitos y todo lo bueno por venir",
-      "preview": "Te mereces un año lleno de risas, salud y personas que te hagan feliz.",
-      "body": "¡Muchísimas felicidades, Celia! 🥳\n\nDisfruta mucho de estos 30 añitos y de todos los que están por venir. ¡Te mereces todo lo bueno de este mundo! Espero que este año esté lleno de muchas risas, salud y personas que te hagan tan feliz como tú nos haces a nosotros.\n\nSé que ahora estás a tope con el campa, así que a por todas con ello, jejejejeje. Seguro que es un día chulísimo. Y la próxima vez que nos veamos, ¡lo celebramos también!\n\nUn abrazo enorme, chiqui. Y, de nuevo, feliz cumpleaños. ✨🫶🏻🎂"
+      "author": "",
+      "title": "¡Muchísimas felicidades, Celia! 🥳",
+      "preview": "¡Te mereces todo lo bueno de este mundo!",
+      "body": "¡Muchísimas felicidades, Celia! 🥳\nDisfruta mucho de estos 30 añitos y de todos los que están por venir. ¡Te mereces todo lo bueno de este mundo! Espero que este año estén llenos de muchas risas, salud y personas que te hagan tan feliz como tú nos haces a nosotros. \n\nSé que ahora estás a tope con el campa, así que a por todas con ello jejejejeje. Seguro que es un día chulísimo. Y la próxima vez que nos veamos, ¡lo celebramos también! \n\nUn abrazo enorme, chiqui. Y de nuevo, feliz cumpleaños. ✨🫶🏻🎂"
     },
     {
       "id": "rocio-santiago",
       "symbol": "🌷",
       "author": "Rocío y Santiago",
-      "title": "Un sol de primavera",
-      "preview": "Una sonrisa perenne que contagia paz y armonía.",
-      "body": "¡Felicidades, Celia! Eres un sol de primavera con una sonrisa perenne en los labios. Nos contagias paz y armonía. ¡Que disfrutes muchísimo estos 30 tacos —y que lo veamos—! Un beso fuerte."
+      "title": "Eres un sol de primavera con una sonrisa perenne en los labios.",
+      "preview": "Nos contagias Paz y Armonía.",
+      "body": "Felicidades Celia!!!! Eres un sol de primavera con una sonrisa perenne en los labios. Nos contagias Paz y Armonía. Que disfrutes muchísimo estos 30 tacos!! (y que lo veamos) Un beso fuerte Rocío y Santiago"
     },
     {
-      "id": "clanthea-lugar-seguro",
+      "id": "preciosa-amiga",
+      "symbol": "🏠",
+      "author": "",
+      "title": "Mi preciosa amiga",
+      "preview": "porque eres casa, esa persona a la que volver cuando crees que no puedes más.",
+      "body": "Mi preciosa amiga, mil gracias por ser exactamente como eres, por cuidar de todos a todas horas, por hacernos sentir familia desde siempre y para siempre. Te quiero preciosa y te querré siempre, porque eres casa, esa persona a la que volver cuando crees que no puedes más. \n\nEsa persona con la que ser libre cuando el mundo no deja ser, gracias gracias y gracias por cada día y cada momento.\n\nMuchísimas felicidades mi pequeña, eres y serás siempre un ejemplo de todo lo que está bien en el mundo. Te quiero"
+    },
+    {
+      "id": "companero-kraal",
       "symbol": "⚜",
-      "author": "Desde Clanthea",
-      "title": "Haces del escultismo un lugar seguro",
-      "preview": "Gracias por cuidarnos, unirnos y hacer que compartir clan contigo sea tan especial.",
-      "body": "¡Felicidades! ❤️\n\nHola, Celia. Quiero decirte que tomé la mejor decisión al formar clan con vosotros, no solo porque las niñas y Gabri son increíbles, sino también por ti: por cómo eres, cómo nos cuidas y cómo nos hablas. Haces que el escultismo sea un lugar seguro, nos alegras y nos ayudas, aunque lo mejor, sin lugar a dudas, es chismear contigo.\n\nMe siento muy segura contigo y me encanta cómo te abres con nosotras.\n\nTambién me encanta lo cariñosa que eres y la cabeza que tienes. Quiero que sepas que te admiro por ello: por cómo gestionas las cosas, por tu valentía, por tus cojones y por cómo tratas a quienes te rodean.\n\nGracias por todo lo que haces por nosotras, por abrirte, ayudarnos y conseguir que estemos más unidos.\n\nNo me equivoqué en mi decisión. Eres mucho amor, el mismo amor que te mereces.\n\n¡Espero que tengas un día muy bonito! ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
+      "author": "Tú compañero de kraal.",
+      "title": "Querida Celia,",
+      "preview": "Me has enseñado lo que significa el cuidado, el cariño y la constancia.",
+      "body": "Querida Celia,\nHaber compartido estos años contigo me hace muy feliz, eres un ejemplo constante, y me haces aprender siempre. Me has enseñado lo que significa el cuidado, el cariño y la constancia.\nMás allá de lo que hemos compartido como compañeros de kraal y como amigos eres una persona muy importante para mí. Eres fundamental en mi vida y tenerte cerca sabiendo que siempre puedo contar contigo me hace sentir genial.\nTú compañero de kraal."
+    },
+    {
+      "id": "pedazo-animadora",
+      "symbol": "💚",
+      "author": "",
+      "title": "Felicidadeess Celiaaa.",
+      "preview": "Eres una persona super dulce, eres todo amor",
+      "body": "Felicidadeess Celiaaa. Quiero que sepas que eres una pedazo de animadora, no tenia ninguna duda de que ibamos a formar un gran clan contigo y con Gabri, pero despues de estos dos años creo que he visto q realmente no me equivocaba. Eres una persona super dulce, eres todo amor y tienes la capacidad de que cualquiera se sienta super querido a tu lado. Me encanta que te abras con nosotros siempre y nos permitas entrar poco a poco un poquillo más en tu vida y formar parte de ella.\n\nGracias por escucharnos cuando lo hemos necesitado, gracias por hacer que todos nos sintamos incluidos, por hacernos reir, por apoyarnos, por estar a nuestro lado cuando no estabamos bien, por facilitarnos las cosas y sobre todo gracias por ser no solo una animadora sino nuestra amiga…"
+    },
+    {
+      "id": "juls",
+      "symbol": "❤️",
+      "author": "Juls",
+      "title": "Felicidades!!❤️",
+      "preview": "Haces que el escultismo sea un lugar seguro, nos alegras y ayudas",
+      "body": "Felicidades!!❤️\nHola Celia, quiero decirte que tome la mejor decisión al formar clan con vosotros, no solo porque las niñas y gabri son increíbles, también por ti, por cómo eres, cómo nos cuidas y hablas. Haces que el escultismo sea un lugar seguro, nos alegras y ayudas, aunque lo mejor sin lugar a dudas es chismear contigo.\nMe siento muy segura contigo y me encanta como te abres con nosotras.\nTambién me encanta lo cariñosa que eres, y la cabeza que tienes y quiero que sepas que te admiro por ello, por cómo gestionas las cosas, tu valentía, tus cojones y por cómo tratas a tu alrededor.\nGracias por todo lo que haces por nosotras, por abrirte y ayudarnos, nos unes mucho a todos.\nNo me equivoque en mi decisión, eres mucho amor, el mismo que te mereces.\nEspero que tengas un día muy bonito!\nTe quiero mucho Juls\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
+    },
+    {
+      "id": "sema",
+      "symbol": "🫡",
+      "author": "Sema",
+      "title": "Feliz cumple Celia ❤️",
+      "preview": "más orgulloso estoy de las cortas, porque estas las hemos elegido en la madurez",
+      "body": "Feliz cumple Celia ❤️\n\nFeliz entrada de década 🫡. Se que están siendo muchos cambios y momentos complicados, y que soy un fantasma desaparecido pero espero que sepas que puedes contar conmigo para lo que necesites. Siempre he estado orgulloso de tener amistades largas, pero más orgulloso estoy de las cortas, porque estas las hemos elegido en la madurez y de estas hay pocas.\n\nUn beso muy grande ❤️\n\nSema"
+    },
+    {
+      "id": "lucia",
+      "symbol": "✨",
+      "author": "Lucía",
+      "title": "Celiaaaa! Has dado ya 30 vueltas al sol",
+      "preview": "tú eres el ejemplo de que los 30 son los nuevos 20!",
+      "body": "Celiaaaa! Has dado ya 30 vueltas al sol, y aunque eso para mucha gente se siente como casi entrar en la tercera edad, tú eres el ejemplo de que los 30 son los nuevos 20! Tu creatividad e imaginación, la ilusión con la que haces las cosas, tu sinvergonzonería, tus ganas de comerte el mundo y tu valentía te hacen única, y sobre todo, hacen que quienes te rodeamos nos sentimos unos privilegiados de tenerte en nuestras vidas. Que sigas brillando otros 30 años y muchos más!!! - Lucía"
     }
   ],
 
   "reasons": [
-    "Haces sentir paz a quienes están contigo.",
-    "Cuidas a los tuyos incluso cuando vas a mil.",
-    "Siempre encuentras una forma de echar una mano.",
-    "Defiendes tus valores con firmeza y corazón.",
-    "Eres valiente cuando toca dar un paso nuevo.",
-    "Tu sonrisa cambia el ambiente de cualquier lugar.",
-    "Tienes una energía que alegra la vida.",
-    "Sabes escuchar de verdad.",
-    "Tus consejos nacen del cariño y de la experiencia.",
-    "Haces que lo difícil parezca un poco más fácil.",
-    "Tienes un sentido del humor que salva días enteros.",
-    "Contigo los planes se vuelven historias.",
-    "Eres auténtica, incluso cuando el mundo aprieta.",
-    "Tu sinceridad hace que confiar en ti sea sencillo.",
-    "Tienes una calidad humana imposible de medir.",
-    "Enseñas a no tener miedo a los cambios.",
-    "Te ilusionas con proyectos que llevan tu sello.",
-    "Nunca te olvidas de querer a los tuyos.",
-    "Sabes disfrutar la vida sin pedirle permiso.",
-    "Eres un referente sin necesidad de proponértelo.",
-    "Acompañas caminos sin querer ser la protagonista.",
-    "Guías sin imponer y sostienes sin hacer ruido.",
-    "Creas espacios donde se puede hablar de todo.",
-    "Haces que cada campamento tenga algo especial.",
-    "Dejas huella sin darte cuenta.",
-    "Consigues unir a personas muy distintas.",
-    "Conviertes momentos cotidianos en recuerdos.",
-    "Sueles ver lo mejor de los demás.",
-    "Haces que el mundo cercano sea más amable.",
-    "La próxima década será mejor porque la compartiremos contigo."
+    "Eres una persona súper icónica y tenemos mucha suerte de haberte conocido.",
+    "Que sepas que en muchas cosas, eres nuestro referente.",
+    "Nos enseñas a no tener miedo a los cambios",
+    "a tener ilusión con proyectos muy tuyos",
+    "a no olvidarte de querer a los tuyos por muy a tope que estés.",
+    "Y a ser súper disfrutonas a pesar de todo.",
+    "Eres graciosa, valiente y estás loquita perdida, me encanta.",
+    "Qué alegría conocerte y compartir camino contigo",
+    "eres la mejor persona a la que puedo recurrir para contarle mis cosas",
+    "porque eres un referente para mí.",
+    "Tus consejos y forma de ver la vida me han ayudado mucho para mejorar mis relaciones de amistad y de pareja.",
+    "Es muy valioso lo que ofreces y estoy súper contenta de tenerte como apoyo.",
+    "porque te admiro mucho.",
+    "Me pareces una persona que transmite muchísima luz y alegría a quienes te rodean.",
+    "tienes una energía muy bonita que contagia.",
+    "Consigues que me sienta muy cómoda y feliz.",
+    "seguir conociéndote me parece una de las cosas más bonitas.",
+    "haces que todo sea más fácil y divertido, contigo siempre es mejor todo.",
+    "Hay personas que dejan huella sin darse cuenta, y tú eres una de ellas.",
+    "Gracias por cada conversación, por cada risa, por cada momento compartido y por estar siempre cuando hacía falta.",
+    "Eres una persona extraordinaria, de una calidad humana inconmensurable y un corazón tan auténtico como sincero.",
+    "La energía tan positiva que nos regalas a todos tan solo con compartir tiempo contigo es un don que alegre la vida.",
+    "que nunca te falten motivos para sonreír",
+    "que nunca te falten la fuerza y las personas que te recuerden lo valiosa que eres.",
+    "¡Te mereces todo lo bueno de este mundo!",
+    "Eres un sol de primavera con una sonrisa perenne en los labios.",
+    "porque eres casa, esa persona a la que volver cuando crees que no puedes más.",
+    "Me has enseñado lo que significa el cuidado, el cariño y la constancia.",
+    "Haces que el escultismo sea un lugar seguro, nos alegras y ayudas",
+    "tú eres el ejemplo de que los 30 son los nuevos 20!"
   ]
 };
