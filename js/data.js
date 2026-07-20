@@ -455,6 +455,121 @@ window.CELIA_DATA = {
       "thumb": "assets/thumbs/foto-76.webp",
       "alt": "Recuerdo compartido de Celia, fotografía 76",
       "ratio": 1.0
+    },
+        ,
+    {
+      "src": "assets/photos/foto-77.webp",
+      "thumb": "assets/thumbs/foto-77.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 77",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-78.webp",
+      "thumb": "assets/thumbs/foto-78.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 78",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-79.webp",
+      "thumb": "assets/thumbs/foto-79.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 79",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-80.webp",
+      "thumb": "assets/thumbs/foto-80.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 80",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-81.webp",
+      "thumb": "assets/thumbs/foto-81.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 81",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-82.webp",
+      "thumb": "assets/thumbs/foto-82.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 82",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-83.webp",
+      "thumb": "assets/thumbs/foto-83.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 83",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-84.webp",
+      "thumb": "assets/thumbs/foto-84.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 84",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-85.webp",
+      "thumb": "assets/thumbs/foto-85.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 85",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-86.webp",
+      "thumb": "assets/thumbs/foto-86.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 86",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-87.webp",
+      "thumb": "assets/thumbs/foto-87.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 87",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-88.webp",
+      "thumb": "assets/thumbs/foto-88.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 88",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-89.webp",
+      "thumb": "assets/thumbs/foto-89.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 89",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-90.webp",
+      "thumb": "assets/thumbs/foto-90.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 90",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-91.webp",
+      "thumb": "assets/thumbs/foto-91.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 91",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-92.webp",
+      "thumb": "assets/thumbs/foto-92.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 92",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-93.webp",
+      "thumb": "assets/thumbs/foto-93.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 93",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-94.webp",
+      "thumb": "assets/thumbs/foto-94.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 94",
+      "ratio": 1.0
+    },
+    {
+      "src": "assets/photos/foto-95.webp",
+      "thumb": "assets/thumbs/foto-95.webp",
+      "alt": "Recuerdo compartido de Celia, fotografía 95",
+      "ratio": 1.0
     }
   ],
 
